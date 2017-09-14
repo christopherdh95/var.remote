@@ -1,0 +1,7 @@
+var class_i_remote =
+2	[
+3	    [ "AddConnectionListener", "class_i_remote.html#a51d4008b7643690dac72dc4abf0ed50d", null ],
+…	
+5	    [ "IsServer", "class_i_remote.html#a625bfcbff2a408b25c7314f4b6fcd61a", null ],
+6	    [ "RemoveConnectionListener", "class_i_remote.html#a4fcddc1bc7690623df84d26102ed55cd", null ]
+7	];
